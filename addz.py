@@ -1,9 +1,9 @@
 from twython import Twython, TwythonError
 
-app_key = "0s24wXPrr5Qe6enob5Xyn7VyZ"
-app_secret = "jI0JY8RQMv7rylZnzdzIK6bLNcPGiPf8u4d7Fq0oz9PEAIdc92"
-oauth_token = "704999209636864000-9kbaJ8hms0BdI0aF2vdA2JE24XXNOiv"
-oauth_token_secret = "wjEqiZLI2ieu5b9ydWrNeiWKupJcrWxJ9n8jDYVvoUYpe"
+app_key = ""
+app_secret = ""
+oauth_token = ""
+oauth_token_secret = ""
 
 naughty_words = [" -RT"]
 good_words = ["vyvanse got me like", "adderall got me like"]
